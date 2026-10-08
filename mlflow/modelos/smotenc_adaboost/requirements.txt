@@ -1,0 +1,6 @@
+mlflow==3.8.1
+cloudpickle==3.0.0
+lz4==4.3.2
+pandas==2.2.3
+psutil==5.9.0
+scikit-learn==1.6.1
